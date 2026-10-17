@@ -18,12 +18,12 @@ I build practical, user-friendly web applications and enjoy solving problems thr
 
 ## 🚀 About Me
 
-- 🎓 Computer Science graduate.
+- 🎓 Software Engineering graduate.
 - 💻 Interested in full-stack web development and software engineering.
 - 🌱 Continuously improving my skills in React, TypeScript, Django, and REST API development.
 - 🔭 Currently developing **SchoolLink**, a parent–school communication system.
 - 🗄️ Working with relational databases, authentication, and API integration.
-- 🤝 Interested in collaborating on useful software projects and learning from other developers.
+- 🤝 Interested in collaborating on useful software projects and building practical solutions to real-world problems.
 
 ---
 
