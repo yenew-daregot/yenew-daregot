@@ -3,53 +3,60 @@
 
 ### Full-Stack Developer
 
-# Hi there, I'm [Your Name] 👋
+<div align="center">
 
-### 🚀 Full-Stack & Frontend Software Developer
+<!-- Dynamic typing title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Open+Source+Enthusiast" alt="Typing SVG" />
 
-I build modern, performant, and accessible web applications using **Next.js**, **React**, and **TypeScript**. I focus on clean system architecture, responsive UI design, and reliable API integrations.
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-#### **Frontend & UI**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- 🔭 Currently building **high-performance web applications** with Next.js 15 + React 19
+- 🌱 Deepening my expertise in **TypeScript type systems** and **server components**
+- 💬 Ask me about **React architecture, performance optimization, or design systems**
+- 📫 Reach me at **you@example.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### **Backend & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📌 Featured Projects
-
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **Healthcare Portal** | Next.js, React, Django REST, PostgreSQL | Patient management, vital logging, and automated appointment workflows. | [Repo](https://github.com/yourusername/healthcare-app) \| [Live Demo](https://demo.com) |
-| **Community Platform** | React, TypeScript, Tailwind CSS | Modular multi-language (EN/AM) web app with clean architecture. | [Repo](https://github.com/yourusername/community-platform) \| [Live Demo](https://demo.com) |
-| **School Management System** | Python, Django, PostgreSQL, React | Parent-school communication hub with secure role-based access. | [Repo](https://github.com/yourusername/school-system) \| [Live Demo](https://demo.com) |
+</div>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 📫 Connect with Me
+</div>
 
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** `your.email@example.com`
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
 
