@@ -10,12 +10,11 @@ I build practical, user-friendly web applications and enjoy solving problems thr
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yenewdaregot.com)
 
 </div>
 
 ---
-
 ## 🚀 About Me
 
 - 🎓 Software Engineering graduate.
@@ -24,6 +23,7 @@ I build practical, user-friendly web applications and enjoy solving problems thr
 - 🔭 Currently developing **SchoolLink**, a parent–school communication system.
 - 🗄️ Working with relational databases, authentication, and API integration.
 - 🤝 Interested in collaborating on useful software projects and building practical solutions to real-world problems.
+
 
 ---
 
@@ -77,13 +77,13 @@ A web application designed to improve communication between parents and schools.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yenew-daregot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenew-daregot&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=yenew-daregotE&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
