@@ -83,8 +83,6 @@ A web application designed to improve communication between parents and schools.
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=yenew-daregotE&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
 </div>
 
 ---
